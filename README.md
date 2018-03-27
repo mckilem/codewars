@@ -1,3 +1,3 @@
 # codewars
 
-codewars.com experiments and algorythms 
+codewars.com experiments and algorithms 
