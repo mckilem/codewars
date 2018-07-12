@@ -1,3 +1,5 @@
+package com.codewars;
+
 import static org.junit.Assert.*;
 import java.text.DecimalFormat;
 
